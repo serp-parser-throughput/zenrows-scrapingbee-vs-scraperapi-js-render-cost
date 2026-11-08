@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Offline cost model; historical price anchors and explicit scenario assumptions.
+"""Offline cost model; historical price anchors and explicit scenario benchmarks.
 MIT licensed: see README.md. No HTTP requests, credentials or dependencies.
 """
 import argparse
